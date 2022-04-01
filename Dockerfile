@@ -1,3 +1,3 @@
 FROM hshar/webapp
 ADD . /var/www/html
-EXPOSE 82
+EXPOSE 8080
